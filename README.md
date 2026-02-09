@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 14 year old currently living in Cyprus 🇨🇾.
+I am a 14 year old currently living in Cyprus 🇨🇾, I go to Pancyprian Gymnasium and I participate in the S.T.E.M program (Science, Technology, Engineering, Mathematics)
 
 I really like building custom made PC's from the ground up using custom PC parts that I pick on my own 🖥. 
 
