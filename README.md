@@ -21,9 +21,6 @@ When something pops up into my imagination, I turn it into reality 😎.
 ![](https://nirzak-streak-stats.vercel.app/?user=achilleaschristou&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=achilleaschristou&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=achilleaschristou&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
