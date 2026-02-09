@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am a 14 year old currently living in cyprus. I like building custom made computers from the ground up using pc parts I pick on my own. I built my first custom made pc at 13 years old in 30 mins with no help. I also undervolted and overclocked my CPU and GPU for maximum performance and I updated my bios to upgrade my CPU. I also know how to code in python , c++ and html. I am looking forward to pursue studies in ΤΕΠΑΚ and work in leading companies like NVdia , AMD e.t.c
+I am a 14 year old currently living in Cyprus 🇨🇾.
+
+I really like building custom made PC's from the ground up using custom PC parts that I pick on my own 🖥. 
+
+I also really like optimizing my PC's for maximum performance⚡️. 
+
+I am interested in coding in different languages (Python, C++, HTML, CSS and JavaScript) 💻. 
+
 
 
 ## 🌐 Socials:
