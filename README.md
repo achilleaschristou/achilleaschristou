@@ -22,7 +22,6 @@ When something pops up into my imagination, I turn it into reality 😎.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=achilleaschristou&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=achilleaschristou&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=achilleaschristou&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
