@@ -3,7 +3,7 @@ I am a 14 year old currently living in Cyprus 🇨🇾, I go to Pancyprian Gymna
 
 I really like building custom made PC's from the ground up using custom PC parts that I pick on my own 🖥. 
 
-I won the Ideodromio grand prize and the award for the bst innovative idea (Smart Recycling Bin) 🏆. 
+I won the Ideodromio 2026 grand prize and the award for the best innovative idea (Smart Recycling Bin) 🏆. 
 
 I also really like optimizing my PC's for maximum performance⚡️. 
 
