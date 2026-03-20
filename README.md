@@ -5,7 +5,7 @@ I really like building custom made PC's from the ground up using custom PC parts
 
 I also really like optimizing my PC's for maximum performance⚡️. 
 
-I am interested in coding in different languages (Python, C++, HTML, CSS and JavaScript) 💻. 
+I am interested in coding in different languages (Python and C++) 💻. 
 
 When something pops up into my imagination, I turn it into reality 😎.
 
